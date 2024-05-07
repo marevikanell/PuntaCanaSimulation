@@ -1,0 +1,1956 @@
+order_id,attendee_id,menu_item_name,price,contains_alcohol,status
+1,A4,Water,3.00,0,completed
+2,A6,Fries,3.20,0,completed
+3,A54,Wings,3.60,0,completed
+4,A69,Wrap,5.00,0,completed
+5,A11,Tacos,4.00,0,completed
+6,A20,Beer,5.50,1,completed
+7,A32,Wings,3.60,0,completed
+8,A18,"Hot Dog",4.50,0,completed
+9,A82,Beer,5.50,1,completed
+10,A87,Burger,8.00,0,completed
+11,A61,Soda,3.50,0,completed
+12,A60,Wings,3.60,0,completed
+13,A81,Tacos,4.00,0,completed
+14,A57,Beer,5.50,1,completed
+15,A99,Beer,5.50,1,completed
+16,A53,Wine,6.00,1,completed
+17,A43,Wine,6.00,1,completed
+18,A46,Wings,3.60,0,completed
+19,A93,Tacos,4.00,0,completed
+20,A33,Whiskey,10.00,1,completed
+21,A110,Wine,6.00,1,completed
+22,A139,Wings,3.60,0,completed
+23,A31,Wings,3.60,0,completed
+24,A90,Wrap,5.00,0,completed
+25,A42,"Gin Tonic",11.00,1,completed
+26,A74,"Gin Tonic",11.00,1,completed
+27,A105,Burger,8.00,0,completed
+28,A137,Wrap,5.00,0,completed
+29,A117,Tacos,4.00,0,completed
+30,A39,Whiskey,10.00,1,completed
+31,A96,Wine,6.00,1,completed
+32,A104,Wine,6.00,1,completed
+33,A163,"Hot Dog",4.50,0,completed
+34,A85,"Gin Tonic",11.00,1,completed
+35,A166,Soda,3.50,0,completed
+36,A59,Fries,3.20,0,completed
+37,A149,Fries,3.20,0,completed
+38,A143,Fries,3.20,0,completed
+39,A193,Wrap,5.00,0,completed
+40,A107,Beer,5.50,1,completed
+41,A77,Wings,3.60,0,completed
+42,A190,Tacos,4.00,0,completed
+43,A192,Wine,6.00,1,completed
+44,A184,Burger,8.00,0,completed
+45,A131,Burger,8.00,0,completed
+46,A126,"Hot Dog",4.50,0,completed
+47,A120,Whiskey,10.00,1,completed
+48,A191,Wings,3.60,0,completed
+49,A146,Wings,3.60,0,completed
+50,A125,Fries,3.20,0,completed
+51,A165,Soda,3.50,0,completed
+52,A153,Wine,6.00,1,completed
+53,A174,Soda,3.50,0,completed
+54,A27,"Gin Tonic",11.00,1,completed
+55,A178,Wings,3.60,0,completed
+56,A181,Tacos,4.00,0,completed
+57,A140,Wine,6.00,1,completed
+58,A245,Wine,6.00,1,completed
+59,A167,Wings,3.60,0,completed
+60,A130,Burger,8.00,0,completed
+61,A227,"Hot Dog",4.50,0,completed
+62,A183,Burger,8.00,0,completed
+63,A205,Whiskey,10.00,1,completed
+64,A182,Water,3.00,0,completed
+65,A201,"Hot Dog",4.50,0,completed
+66,A211,"Hot Dog",4.50,0,completed
+67,A259,Beer,5.50,1,completed
+68,A204,Wine,6.00,1,completed
+69,A220,Tacos,4.00,0,completed
+70,A262,Wine,6.00,1,completed
+71,A267,Burger,8.00,0,completed
+72,A237,Wine,6.00,1,completed
+73,A170,Fries,3.20,0,completed
+74,A251,"Hot Dog",4.50,0,completed
+75,A269,Wings,3.60,0,completed
+76,A29,Tacos,4.00,0,completed
+77,A238,Burger,8.00,0,completed
+78,A109,Wings,3.60,0,completed
+79,A297,Wrap,5.00,0,completed
+80,A270,Water,3.00,0,completed
+81,A32,Soda,3.50,0,completed
+82,A308,Water,3.00,0,completed
+83,A165,Soda,3.50,0,completed
+84,A312,Soda,3.50,0,completed
+85,A11,Wrap,5.00,0,completed
+86,A286,Wings,3.60,0,completed
+87,A38,Wings,3.60,0,completed
+88,A281,Fries,3.20,0,completed
+89,A155,Wine,6.00,1,completed
+90,A385,Wine,6.00,1,completed
+91,A244,Burger,8.00,0,completed
+92,A350,Fries,3.20,0,completed
+93,A233,Whiskey,10.00,1,completed
+94,A5,Burger,8.00,0,completed
+95,A344,Soda,3.50,0,completed
+96,A70,Wrap,5.00,0,completed
+97,A302,Wrap,5.00,0,completed
+98,A271,Wings,3.60,0,completed
+99,A60,Burger,8.00,0,completed
+100,A142,Wings,3.60,0,completed
+101,A81,Wine,6.00,1,completed
+102,A56,Soda,3.50,0,completed
+103,A209,"Gin Tonic",11.00,1,completed
+104,A280,Fries,3.20,0,completed
+105,A334,Whiskey,10.00,1,completed
+106,A118,Wings,3.60,0,completed
+107,A69,Wrap,5.00,0,completed
+108,A376,Wrap,5.00,0,completed
+109,A258,"Hot Dog",4.50,0,completed
+110,A71,Soda,3.50,0,completed
+111,A239,Soda,3.50,0,completed
+112,A39,Burger,8.00,0,completed
+113,A170,Soda,3.50,0,completed
+114,A101,Wings,3.60,0,completed
+115,A10,Wine,6.00,1,completed
+116,A131,Wrap,5.00,0,completed
+117,A365,Wrap,5.00,0,completed
+118,A15,Beer,5.50,1,completed
+119,A62,Fries,3.20,0,completed
+120,A369,Tacos,4.00,0,completed
+121,A143,Wrap,5.00,0,completed
+122,A207,Wings,3.60,0,completed
+123,A381,Wine,6.00,1,completed
+124,A375,Burger,8.00,0,completed
+125,A399,Wine,6.00,1,completed
+126,A351,Beer,5.50,1,completed
+127,A64,Whiskey,10.00,1,completed
+128,A337,"Gin Tonic",11.00,1,completed
+129,A315,Wings,3.60,0,completed
+130,A441,"Hot Dog",4.50,0,completed
+131,A162,Wings,3.60,0,completed
+132,A98,Tacos,4.00,0,completed
+133,A417,Tacos,4.00,0,completed
+134,A404,Wine,6.00,1,completed
+135,A199,Wine,6.00,1,completed
+136,A89,Whiskey,10.00,1,completed
+137,A305,Beer,5.50,1,completed
+138,A301,Water,3.00,0,completed
+139,A421,Burger,8.00,0,completed
+140,A492,Wine,6.00,1,completed
+141,A218,"Hot Dog",4.50,0,completed
+142,A119,Beer,5.50,1,completed
+143,A137,Burger,8.00,0,completed
+144,A73,Burger,8.00,0,completed
+145,A273,"Gin Tonic",11.00,1,completed
+146,A159,Burger,8.00,0,completed
+147,A149,Fries,3.20,0,completed
+148,A111,Soda,3.50,0,completed
+149,A107,Tacos,4.00,0,completed
+150,A245,Fries,3.20,0,completed
+151,A430,"Hot Dog",4.50,0,completed
+152,A389,"Hot Dog",4.50,0,completed
+153,A49,"Gin Tonic",11.00,1,completed
+154,A136,Wings,3.60,0,completed
+155,A493,Fries,3.20,0,completed
+156,A18,Wrap,5.00,0,completed
+157,A181,Soda,3.50,0,completed
+158,A225,Soda,3.50,0,completed
+159,A193,"Hot Dog",4.50,0,completed
+160,A262,Water,3.00,0,completed
+161,A166,Tacos,4.00,0,completed
+162,A90,Burger,8.00,0,completed
+163,A130,Water,3.00,0,completed
+164,A224,Wine,6.00,1,completed
+165,A434,Whiskey,10.00,1,completed
+166,A396,"Gin Tonic",11.00,1,completed
+167,A451,Water,3.00,0,completed
+168,A95,Burger,8.00,0,completed
+169,A97,Wings,3.60,0,completed
+170,A236,Wings,3.60,0,completed
+171,A330,Wings,3.60,0,completed
+172,A313,Water,3.00,0,completed
+173,A306,"Hot Dog",4.50,0,completed
+174,A43,Beer,5.50,1,completed
+175,A422,Wrap,5.00,0,completed
+176,A77,Burger,8.00,0,completed
+177,A265,Wine,6.00,1,completed
+178,A240,Tacos,4.00,0,completed
+179,A448,Wings,3.60,0,completed
+180,A320,Whiskey,10.00,1,completed
+181,A445,Burger,8.00,0,completed
+182,A380,Beer,5.50,1,completed
+183,A394,Burger,8.00,0,completed
+184,A242,"Hot Dog",4.50,0,completed
+185,A140,Whiskey,10.00,1,completed
+186,A461,Whiskey,10.00,1,completed
+187,A314,Soda,3.50,0,completed
+188,A87,"Gin Tonic",11.00,1,completed
+189,A191,"Gin Tonic",11.00,1,completed
+190,A500,Wine,6.00,1,completed
+191,A19,"Gin Tonic",11.00,1,completed
+192,A182,Wings,3.60,0,completed
+193,A299,Soda,3.50,0,completed
+194,A479,Wine,6.00,1,completed
+195,A257,"Gin Tonic",11.00,1,completed
+196,A459,"Gin Tonic",11.00,1,completed
+197,A103,Beer,5.50,1,completed
+198,A498,"Gin Tonic",11.00,1,completed
+199,A429,"Hot Dog",4.50,0,completed
+200,A206,Fries,3.20,0,completed
+201,A57,"Gin Tonic",11.00,1,completed
+202,A219,Water,3.00,0,completed
+203,A497,Water,3.00,0,completed
+204,A300,Fries,3.20,0,completed
+205,A152,Tacos,4.00,0,completed
+206,A201,Whiskey,10.00,1,completed
+207,A109,Water,3.00,0,completed
+208,A487,Whiskey,10.00,1,completed
+209,A415,Wings,3.60,0,completed
+210,A165,"Hot Dog",4.50,0,completed
+211,A42,"Hot Dog",4.50,0,completed
+212,A120,Wings,3.60,0,completed
+213,A38,Wings,3.60,0,completed
+214,A467,Tacos,4.00,0,completed
+215,A379,Fries,3.20,0,completed
+216,A22,"Hot Dog",4.50,0,completed
+217,A79,Wine,6.00,1,completed
+218,A269,Wine,6.00,1,completed
+219,A72,"Hot Dog",4.50,0,completed
+220,A360,Fries,3.20,0,completed
+221,A350,Wings,3.60,0,completed
+222,A82,Whiskey,10.00,1,completed
+223,A104,Whiskey,10.00,1,completed
+224,A229,Water,3.00,0,completed
+225,A369,Tacos,4.00,0,completed
+226,A220,Water,3.00,0,completed
+227,A190,Whiskey,10.00,1,completed
+228,A49,Water,3.00,0,completed
+229,A29,Wings,3.60,0,completed
+230,A223,Whiskey,10.00,1,completed
+231,A444,Tacos,4.00,0,completed
+232,A287,Tacos,4.00,0,completed
+233,A87,Fries,3.20,0,completed
+234,A345,Water,3.00,0,completed
+235,A308,Beer,5.50,1,completed
+236,A88,Tacos,4.00,0,completed
+237,A25,"Hot Dog",4.50,0,completed
+238,A247,Beer,5.50,1,completed
+239,A270,Fries,3.20,0,completed
+240,A27,Wine,6.00,1,completed
+241,A458,Wrap,5.00,0,completed
+242,A175,Wine,6.00,1,completed
+243,A189,"Gin Tonic",11.00,1,completed
+244,A105,"Gin Tonic",11.00,1,completed
+245,A258,Beer,5.50,1,completed
+246,A133,Beer,5.50,1,completed
+247,A295,Wrap,5.00,0,completed
+248,A436,Soda,3.50,0,completed
+249,A264,Burger,8.00,0,completed
+250,A77,Wings,3.60,0,completed
+251,A416,Burger,8.00,0,completed
+252,A397,Wrap,5.00,0,completed
+253,A69,Beer,5.50,1,completed
+254,A375,Wings,3.60,0,completed
+255,A30,Beer,5.50,1,completed
+256,A315,Beer,5.50,1,completed
+257,A255,Beer,5.50,1,completed
+258,A424,Beer,5.50,1,completed
+259,A317,Water,3.00,0,completed
+260,A448,Wings,3.60,0,completed
+261,A233,Beer,5.50,1,completed
+262,A352,"Gin Tonic",11.00,1,completed
+263,A314,"Hot Dog",4.50,0,completed
+264,A385,"Gin Tonic",11.00,1,completed
+265,A191,Wrap,5.00,0,completed
+266,A275,Fries,3.20,0,completed
+267,A65,Fries,3.20,0,completed
+268,A381,Whiskey,10.00,1,completed
+269,A42,Water,3.00,0,completed
+270,A244,Fries,3.20,0,completed
+271,A365,Water,3.00,0,completed
+272,A136,Wings,3.60,0,completed
+273,A64,Beer,5.50,1,completed
+274,A53,Whiskey,10.00,1,completed
+275,A206,"Gin Tonic",11.00,1,completed
+276,A97,"Hot Dog",4.50,0,completed
+277,A192,Burger,8.00,0,completed
+278,A15,Tacos,4.00,0,completed
+279,A311,Whiskey,10.00,1,completed
+280,A142,Tacos,4.00,0,completed
+281,A118,Tacos,4.00,0,completed
+282,A306,Wine,6.00,1,completed
+283,A370,Beer,5.50,1,completed
+284,A57,"Gin Tonic",11.00,1,completed
+285,A489,Soda,3.50,0,completed
+286,A175,Wings,3.60,0,completed
+287,A280,Tacos,4.00,0,completed
+288,A344,"Hot Dog",4.50,0,completed
+289,A320,Burger,8.00,0,completed
+290,A107,Burger,8.00,0,completed
+291,A119,Water,3.00,0,completed
+292,A337,Beer,5.50,1,completed
+293,A299,Wings,3.60,0,completed
+294,A198,"Hot Dog",4.50,0,completed
+295,A417,Water,3.00,0,completed
+296,A451,Wrap,5.00,0,completed
+297,A399,Soda,3.50,0,completed
+298,A467,Water,3.00,0,completed
+299,A189,Wine,6.00,1,completed
+300,A423,Wings,3.60,0,completed
+301,A500,Wings,3.60,0,completed
+302,A404,Soda,3.50,0,completed
+303,A60,Soda,3.50,0,completed
+304,A349,Wrap,5.00,0,completed
+305,A199,Burger,8.00,0,completed
+306,A47,"Hot Dog",4.50,0,completed
+307,A484,"Hot Dog",4.50,0,completed
+308,A408,Wine,6.00,1,completed
+309,A89,"Gin Tonic",11.00,1,completed
+310,A242,Whiskey,10.00,1,completed
+311,A432,Burger,8.00,0,completed
+312,A334,Beer,5.50,1,completed
+313,A269,Tacos,4.00,0,completed
+314,A312,Whiskey,10.00,1,completed
+315,A243,"Gin Tonic",11.00,1,completed
+316,A49,Water,3.00,0,completed
+317,A157,Tacos,4.00,0,completed
+318,A371,"Gin Tonic",11.00,1,completed
+319,A266,"Hot Dog",4.50,0,completed
+320,A73,"Gin Tonic",11.00,1,completed
+321,A258,Soda,3.50,0,completed
+322,A459,Wrap,5.00,0,completed
+323,A111,Wine,6.00,1,completed
+324,A26,Wrap,5.00,0,completed
+325,A45,Wings,3.60,0,completed
+326,A377,Wings,3.60,0,completed
+327,A352,Soda,3.50,0,completed
+328,A152,Fries,3.20,0,completed
+329,A347,Wings,3.60,0,completed
+330,A77,Soda,3.50,0,completed
+331,A358,Water,3.00,0,completed
+332,A76,Burger,8.00,0,completed
+333,A109,"Gin Tonic",11.00,1,completed
+334,A81,"Gin Tonic",11.00,1,completed
+335,A225,"Hot Dog",4.50,0,completed
+336,A291,Fries,3.20,0,completed
+337,A360,Wrap,5.00,0,completed
+338,A436,Burger,8.00,0,completed
+339,A22,"Hot Dog",4.50,0,completed
+340,A104,Wrap,5.00,0,completed
+341,A343,Wings,3.60,0,completed
+342,A130,Wine,6.00,1,completed
+343,A319,Burger,8.00,0,completed
+344,A420,Tacos,4.00,0,completed
+345,A88,Wings,3.60,0,completed
+346,A430,"Gin Tonic",11.00,1,completed
+347,A422,"Gin Tonic",11.00,1,completed
+348,A83,Fries,3.20,0,completed
+349,A34,"Hot Dog",4.50,0,completed
+350,A4,Beer,5.50,1,completed
+351,A416,Water,3.00,0,completed
+352,A149,Burger,8.00,0,completed
+353,A72,Soda,3.50,0,completed
+354,A257,Fries,3.20,0,completed
+355,A265,Tacos,4.00,0,completed
+356,A404,Whiskey,10.00,1,completed
+357,A92,Wine,6.00,1,completed
+358,A448,Wine,6.00,1,completed
+359,A234,Burger,8.00,0,completed
+360,A69,Wrap,5.00,0,completed
+361,A345,"Gin Tonic",11.00,1,completed
+362,A209,Tacos,4.00,0,completed
+363,A305,Wine,6.00,1,completed
+364,A71,Fries,3.20,0,completed
+365,A309,Whiskey,10.00,1,completed
+366,A38,Wrap,5.00,0,completed
+367,A312,Fries,3.20,0,completed
+368,A101,Tacos,4.00,0,completed
+369,A148,"Gin Tonic",11.00,1,completed
+370,A401,Whiskey,10.00,1,completed
+371,A134,Wine,6.00,1,completed
+372,A43,Wine,6.00,1,completed
+373,A6,Fries,3.20,0,completed
+374,A308,Wrap,5.00,0,completed
+375,A485,Whiskey,10.00,1,completed
+376,A123,"Gin Tonic",11.00,1,completed
+377,A18,Burger,8.00,0,completed
+378,A9,Tacos,4.00,0,completed
+379,A490,Tacos,4.00,0,completed
+380,A219,"Hot Dog",4.50,0,completed
+381,A399,Tacos,4.00,0,completed
+382,A394,Whiskey,10.00,1,completed
+383,A143,Wine,6.00,1,completed
+384,A309,Fries,3.20,0,completed
+385,A421,Fries,3.20,0,completed
+386,A429,Fries,3.20,0,completed
+387,A259,Whiskey,10.00,1,completed
+388,A287,Burger,8.00,0,completed
+389,A307,Burger,8.00,0,completed
+390,A308,Soda,3.50,0,completed
+391,A277,Fries,3.20,0,completed
+392,A475,Beer,5.50,1,completed
+393,A459,Fries,3.20,0,completed
+394,A58,Soda,3.50,0,completed
+395,A252,Soda,3.50,0,completed
+396,A238,Wrap,5.00,0,completed
+397,A370,Wine,6.00,1,completed
+398,A305,"Hot Dog",4.50,0,completed
+399,A211,"Gin Tonic",11.00,1,completed
+400,A137,Wings,3.60,0,completed
+401,A372,"Hot Dog",4.50,0,completed
+402,A183,Wrap,5.00,0,completed
+403,A435,Fries,3.20,0,completed
+404,A437,Beer,5.50,1,completed
+405,A461,Tacos,4.00,0,completed
+406,A439,Wrap,5.00,0,completed
+407,A47,Wrap,5.00,0,completed
+408,A415,Fries,3.20,0,completed
+409,A326,Soda,3.50,0,completed
+410,A93,Wine,6.00,1,completed
+411,A157,Fries,3.20,0,completed
+412,A77,Fries,3.20,0,completed
+413,A79,Wings,3.60,0,completed
+414,A242,Wings,3.60,0,completed
+415,A81,Soda,3.50,0,completed
+416,A403,Wine,6.00,1,completed
+417,A199,Fries,3.20,0,completed
+418,A500,Tacos,4.00,0,completed
+419,A103,Beer,5.50,1,completed
+420,A428,Tacos,4.00,0,completed
+421,A333,Tacos,4.00,0,completed
+422,A369,Wine,6.00,1,completed
+423,A175,"Hot Dog",4.50,0,completed
+424,A67,"Hot Dog",4.50,0,completed
+425,A373,Wings,3.60,0,completed
+426,A340,Burger,8.00,0,completed
+427,A480,"Gin Tonic",11.00,1,completed
+428,A172,Wine,6.00,1,completed
+429,A130,Wine,6.00,1,completed
+430,A420,Burger,8.00,0,completed
+431,A229,Wine,6.00,1,completed
+432,A64,"Gin Tonic",11.00,1,completed
+433,A377,Fries,3.20,0,completed
+434,A307,Water,3.00,0,completed
+435,A422,Tacos,4.00,0,completed
+436,A303,Wrap,5.00,0,completed
+437,A118,Wine,6.00,1,completed
+438,A63,Wine,6.00,1,completed
+439,A471,Whiskey,10.00,1,completed
+440,A165,"Hot Dog",4.50,0,completed
+441,A189,Water,3.00,0,completed
+442,A60,Wrap,5.00,0,completed
+443,A155,Wings,3.60,0,completed
+444,A87,Water,3.00,0,completed
+445,A6,Water,3.00,0,completed
+446,A256,"Gin Tonic",11.00,1,completed
+447,A233,Wrap,5.00,0,completed
+448,A262,Wings,3.60,0,completed
+449,A389,"Gin Tonic",11.00,1,completed
+450,A226,Wine,6.00,1,completed
+451,A32,"Gin Tonic",11.00,1,completed
+452,A96,Wrap,5.00,0,completed
+453,A4,Beer,5.50,1,completed
+454,A318,Soda,3.50,0,completed
+455,A258,Beer,5.50,1,completed
+456,A91,Wine,6.00,1,completed
+457,A344,Wine,6.00,1,completed
+458,A45,Whiskey,10.00,1,completed
+459,A190,Whiskey,10.00,1,completed
+460,A413,Burger,8.00,0,completed
+461,A291,Whiskey,10.00,1,completed
+462,A28,Wings,3.60,0,completed
+463,A152,Burger,8.00,0,completed
+464,A358,Beer,5.50,1,completed
+465,A334,Wine,6.00,1,completed
+466,A490,Burger,8.00,0,completed
+467,A93,Fries,3.20,0,completed
+468,A26,Wrap,5.00,0,completed
+469,A499,Wine,6.00,1,completed
+470,A371,Wrap,5.00,0,completed
+471,A468,Water,3.00,0,completed
+472,A100,"Gin Tonic",11.00,1,completed
+473,A69,"Gin Tonic",11.00,1,completed
+474,A197,"Hot Dog",4.50,0,completed
+475,A297,Wings,3.60,0,completed
+476,A345,Beer,5.50,1,completed
+477,A123,Water,3.00,0,completed
+478,A448,Whiskey,10.00,1,completed
+479,A287,"Hot Dog",4.50,0,completed
+480,A352,Fries,3.20,0,completed
+481,A189,Tacos,4.00,0,completed
+482,A234,Wine,6.00,1,completed
+483,A471,Whiskey,10.00,1,completed
+484,A350,Whiskey,10.00,1,completed
+485,A359,Soda,3.50,0,completed
+486,A121,Whiskey,10.00,1,completed
+487,A286,Whiskey,10.00,1,completed
+488,A312,Soda,3.50,0,completed
+489,A265,Fries,3.20,0,completed
+490,A132,"Gin Tonic",11.00,1,completed
+491,A142,Soda,3.50,0,completed
+492,A266,Wrap,5.00,0,completed
+493,A72,Whiskey,10.00,1,completed
+494,A97,Wine,6.00,1,completed
+495,A223,Wrap,5.00,0,completed
+496,A186,Wine,6.00,1,completed
+497,A488,"Gin Tonic",11.00,1,completed
+498,A92,Burger,8.00,0,completed
+499,A273,Burger,8.00,0,completed
+500,A149,Soda,3.50,0,completed
+501,A485,Wrap,5.00,0,completed
+502,A87,Tacos,4.00,0,completed
+503,A343,Fries,3.20,0,completed
+504,A256,Water,3.00,0,completed
+505,A389,Wrap,5.00,0,completed
+506,A349,Water,3.00,0,completed
+507,A73,Fries,3.20,0,completed
+508,A174,Water,3.00,0,completed
+509,A162,"Gin Tonic",11.00,1,completed
+510,A83,Soda,3.50,0,completed
+511,A184,Wrap,5.00,0,completed
+512,A88,Water,3.00,0,completed
+513,A182,Water,3.00,0,completed
+514,A480,Tacos,4.00,0,completed
+515,A61,Wings,3.60,0,completed
+516,A201,Wings,3.60,0,completed
+517,A197,Wine,6.00,1,completed
+518,A5,Wings,3.60,0,completed
+519,A305,Wings,3.60,0,completed
+520,A360,Fries,3.20,0,completed
+521,A117,Soda,3.50,0,completed
+522,A183,Wrap,5.00,0,completed
+523,A269,"Hot Dog",4.50,0,completed
+524,A441,Fries,3.20,0,completed
+525,A491,Wrap,5.00,0,completed
+526,A59,Beer,5.50,1,completed
+527,A30,Wine,6.00,1,completed
+528,A22,Whiskey,10.00,1,completed
+529,A99,Tacos,4.00,0,completed
+530,A472,Fries,3.20,0,completed
+531,A299,Tacos,4.00,0,completed
+532,A54,Soda,3.50,0,completed
+533,A372,"Gin Tonic",11.00,1,completed
+534,A60,Burger,8.00,0,completed
+535,A47,Beer,5.50,1,completed
+536,A319,Water,3.00,0,completed
+537,A130,Tacos,4.00,0,completed
+538,A421,Fries,3.20,0,completed
+539,A42,Soda,3.50,0,completed
+540,A303,Wine,6.00,1,completed
+541,A134,Wine,6.00,1,completed
+542,A444,Tacos,4.00,0,completed
+543,A153,Burger,8.00,0,completed
+544,A428,Fries,3.20,0,completed
+545,A377,"Hot Dog",4.50,0,completed
+546,A73,Tacos,4.00,0,completed
+547,A35,Wine,6.00,1,completed
+548,A118,Water,3.00,0,completed
+549,A281,"Hot Dog",4.50,0,completed
+550,A350,Tacos,4.00,0,completed
+551,A137,Wine,6.00,1,completed
+552,A234,Wine,6.00,1,completed
+553,A122,Beer,5.50,1,completed
+554,A146,"Hot Dog",4.50,0,completed
+555,A344,Burger,8.00,0,completed
+556,A67,Wrap,5.00,0,completed
+557,A105,Wings,3.60,0,completed
+558,A434,Wine,6.00,1,completed
+559,A454,Whiskey,10.00,1,completed
+560,A20,Whiskey,10.00,1,completed
+561,A404,Water,3.00,0,completed
+562,A376,Wrap,5.00,0,completed
+563,A242,Burger,8.00,0,completed
+564,A323,Water,3.00,0,completed
+565,A240,"Hot Dog",4.50,0,completed
+566,A468,"Hot Dog",4.50,0,completed
+567,A436,Fries,3.20,0,completed
+568,A100,Beer,5.50,1,completed
+569,A373,Wings,3.60,0,completed
+570,A155,"Hot Dog",4.50,0,completed
+571,A9,Water,3.00,0,completed
+572,A104,Wine,6.00,1,completed
+573,A53,Wings,3.60,0,completed
+574,A332,Burger,8.00,0,completed
+575,A279,"Hot Dog",4.50,0,completed
+576,A18,Wine,6.00,1,completed
+577,A313,"Gin Tonic",11.00,1,completed
+578,A334,Burger,8.00,0,completed
+579,A341,Burger,8.00,0,completed
+580,A108,Tacos,4.00,0,completed
+581,A399,Whiskey,10.00,1,completed
+582,A239,Tacos,4.00,0,completed
+583,A135,Water,3.00,0,completed
+584,A29,"Gin Tonic",11.00,1,completed
+585,A162,Burger,8.00,0,completed
+586,A413,Tacos,4.00,0,completed
+587,A174,Wings,3.60,0,completed
+588,A259,Wine,6.00,1,completed
+589,A259,"Gin Tonic",11.00,1,completed
+590,A65,Whiskey,10.00,1,completed
+591,A209,Whiskey,10.00,1,completed
+592,A492,Whiskey,10.00,1,completed
+593,A301,Burger,8.00,0,completed
+594,A251,"Gin Tonic",11.00,1,completed
+595,A383,"Gin Tonic",11.00,1,completed
+596,A354,Whiskey,10.00,1,completed
+597,A361,Wine,6.00,1,completed
+598,A190,Beer,5.50,1,completed
+599,A310,Wine,6.00,1,completed
+600,A4,Tacos,4.00,0,completed
+601,A318,Whiskey,10.00,1,completed
+602,A247,"Gin Tonic",11.00,1,completed
+603,A82,Beer,5.50,1,completed
+604,A20,Beer,5.50,1,completed
+605,A257,"Gin Tonic",11.00,1,completed
+606,A291,Whiskey,10.00,1,completed
+607,A137,Wings,3.60,0,completed
+608,A146,Burger,8.00,0,completed
+609,A431,Water,3.00,0,completed
+610,A480,Tacos,4.00,0,completed
+611,A382,Wine,6.00,1,completed
+612,A237,Wine,6.00,1,completed
+613,A385,Soda,3.50,0,completed
+614,A477,Wine,6.00,1,completed
+615,A117,Burger,8.00,0,completed
+616,A273,"Gin Tonic",11.00,1,completed
+617,A312,Wine,6.00,1,completed
+618,A26,Wrap,5.00,0,completed
+619,A372,Fries,3.20,0,completed
+620,A182,Soda,3.50,0,completed
+621,A130,Water,3.00,0,completed
+622,A170,Tacos,4.00,0,completed
+623,A420,Wings,3.60,0,completed
+624,A348,Burger,8.00,0,completed
+625,A452,Soda,3.50,0,completed
+626,A498,Burger,8.00,0,completed
+627,A10,Burger,8.00,0,completed
+628,A149,Wine,6.00,1,completed
+629,A483,Wings,3.60,0,completed
+630,A176,Wine,6.00,1,completed
+631,A238,Burger,8.00,0,completed
+632,A116,Whiskey,10.00,1,completed
+633,A326,Fries,3.20,0,completed
+634,A104,Tacos,4.00,0,completed
+635,A59,Tacos,4.00,0,completed
+636,A383,Fries,3.20,0,completed
+637,A120,Beer,5.50,1,completed
+638,A309,"Hot Dog",4.50,0,completed
+639,A181,Burger,8.00,0,completed
+640,A465,Wine,6.00,1,completed
+641,A454,Wine,6.00,1,completed
+642,A119,Whiskey,10.00,1,completed
+643,A180,Wine,6.00,1,completed
+644,A340,Tacos,4.00,0,completed
+645,A489,Wine,6.00,1,completed
+646,A85,Tacos,4.00,0,completed
+647,A451,Whiskey,10.00,1,completed
+648,A123,Tacos,4.00,0,completed
+649,A416,Wrap,5.00,0,completed
+650,A334,Fries,3.20,0,completed
+651,A266,Water,3.00,0,completed
+652,A342,Soda,3.50,0,completed
+653,A286,"Hot Dog",4.50,0,completed
+654,A332,Soda,3.50,0,completed
+655,A320,Fries,3.20,0,completed
+656,A310,Fries,3.20,0,completed
+657,A18,Water,3.00,0,completed
+658,A92,Water,3.00,0,completed
+659,A376,Fries,3.20,0,completed
+660,A413,Wrap,5.00,0,completed
+661,A461,Burger,8.00,0,completed
+662,A359,Beer,5.50,1,completed
+663,A142,Wine,6.00,1,completed
+664,A323,Burger,8.00,0,completed
+665,A149,Wrap,5.00,0,completed
+666,A258,Water,3.00,0,completed
+667,A175,Tacos,4.00,0,completed
+668,A178,Wings,3.60,0,completed
+669,A458,Fries,3.20,0,completed
+670,A224,Burger,8.00,0,completed
+671,A264,Soda,3.50,0,completed
+672,A298,Fries,3.20,0,completed
+673,A204,Beer,5.50,1,completed
+674,A421,Burger,8.00,0,completed
+675,A437,Wrap,5.00,0,completed
+676,A301,Wings,3.60,0,completed
+677,A343,"Gin Tonic",11.00,1,completed
+678,A67,Whiskey,10.00,1,completed
+679,A247,Burger,8.00,0,completed
+680,A53,Wings,3.60,0,completed
+681,A145,Wine,6.00,1,completed
+682,A426,Wings,3.60,0,completed
+683,A362,Burger,8.00,0,completed
+684,A378,Wine,6.00,1,completed
+685,A344,Burger,8.00,0,completed
+686,A410,Beer,5.50,1,completed
+687,A223,Wrap,5.00,0,completed
+688,A401,"Gin Tonic",11.00,1,completed
+689,A120,Soda,3.50,0,completed
+690,A453,Wine,6.00,1,completed
+691,A165,Burger,8.00,0,completed
+692,A33,Burger,8.00,0,completed
+693,A159,Wine,6.00,1,completed
+694,A451,Water,3.00,0,completed
+695,A415,Whiskey,10.00,1,completed
+696,A452,Fries,3.20,0,completed
+697,A31,Wings,3.60,0,completed
+698,A209,Wrap,5.00,0,completed
+699,A318,Burger,8.00,0,completed
+700,A279,Fries,3.20,0,completed
+701,A260,"Hot Dog",4.50,0,completed
+702,A39,Wine,6.00,1,completed
+703,A71,Tacos,4.00,0,completed
+704,A137,Fries,3.20,0,completed
+705,A281,Wine,6.00,1,completed
+706,A236,Burger,8.00,0,completed
+707,A347,Wings,3.60,0,completed
+708,A144,"Gin Tonic",11.00,1,completed
+709,A201,"Gin Tonic",11.00,1,completed
+710,A32,Burger,8.00,0,completed
+711,A227,"Hot Dog",4.50,0,completed
+712,A63,Beer,5.50,1,completed
+713,A391,Wine,6.00,1,completed
+714,A428,Water,3.00,0,completed
+715,A444,"Hot Dog",4.50,0,completed
+716,A492,"Gin Tonic",11.00,1,completed
+717,A135,Burger,8.00,0,completed
+718,A358,Wings,3.60,0,completed
+719,A38,Whiskey,10.00,1,completed
+720,A174,Wine,6.00,1,completed
+721,A172,Fries,3.20,0,completed
+722,A234,"Gin Tonic",11.00,1,completed
+723,A143,Tacos,4.00,0,completed
+724,A346,Beer,5.50,1,completed
+725,A220,"Gin Tonic",11.00,1,completed
+726,A273,Whiskey,10.00,1,completed
+727,A417,Beer,5.50,1,completed
+728,A105,"Hot Dog",4.50,0,completed
+729,A22,Beer,5.50,1,completed
+730,A16,"Gin Tonic",11.00,1,completed
+731,A253,Wrap,5.00,0,completed
+732,A240,Beer,5.50,1,completed
+733,A48,"Gin Tonic",11.00,1,completed
+734,A167,"Gin Tonic",11.00,1,completed
+735,A108,Burger,8.00,0,completed
+736,A384,Wings,3.60,0,completed
+737,A404,"Gin Tonic",11.00,1,completed
+738,A19,Soda,3.50,0,completed
+739,A373,"Gin Tonic",11.00,1,completed
+740,A408,Whiskey,10.00,1,completed
+741,A111,Soda,3.50,0,completed
+742,A415,Soda,3.50,0,completed
+743,A202,"Gin Tonic",11.00,1,completed
+744,A132,Beer,5.50,1,completed
+745,A65,Wrap,5.00,0,completed
+746,A434,"Hot Dog",4.50,0,completed
+747,A189,Wine,6.00,1,completed
+748,A25,Beer,5.50,1,completed
+749,A180,Burger,8.00,0,completed
+750,A226,Whiskey,10.00,1,completed
+751,A90,"Gin Tonic",11.00,1,completed
+752,A326,Wrap,5.00,0,completed
+753,A320,Tacos,4.00,0,completed
+754,A383,Wine,6.00,1,completed
+755,A222,Beer,5.50,1,completed
+756,A224,Burger,8.00,0,completed
+757,A258,"Hot Dog",4.50,0,completed
+758,A71,Wings,3.60,0,completed
+759,A4,Soda,3.50,0,completed
+760,A472,Whiskey,10.00,1,completed
+761,A369,Wrap,5.00,0,completed
+762,A208,Fries,3.20,0,completed
+763,A468,"Gin Tonic",11.00,1,completed
+764,A372,Soda,3.50,0,completed
+765,A182,Beer,5.50,1,completed
+766,A149,Tacos,4.00,0,completed
+767,A26,"Gin Tonic",11.00,1,completed
+768,A135,Burger,8.00,0,completed
+769,A162,Wrap,5.00,0,completed
+770,A451,Fries,3.20,0,completed
+771,A238,Fries,3.20,0,completed
+772,A483,Wrap,5.00,0,completed
+773,A257,Soda,3.50,0,completed
+774,A251,Soda,3.50,0,completed
+775,A399,Water,3.00,0,completed
+776,A389,Soda,3.50,0,completed
+777,A323,Soda,3.50,0,completed
+778,A364,Fries,3.20,0,completed
+779,A131,Wings,3.60,0,completed
+780,A20,Tacos,4.00,0,completed
+781,A341,Soda,3.50,0,completed
+782,A132,Tacos,4.00,0,completed
+783,A334,Beer,5.50,1,completed
+784,A175,"Hot Dog",4.50,0,completed
+785,A146,Soda,3.50,0,completed
+786,A492,"Hot Dog",4.50,0,completed
+787,A332,Beer,5.50,1,completed
+788,A251,"Hot Dog",4.50,0,completed
+789,A281,Tacos,4.00,0,completed
+790,A310,Wings,3.60,0,completed
+791,A240,Wine,6.00,1,completed
+792,A178,Wings,3.60,0,completed
+793,A56,"Gin Tonic",11.00,1,completed
+794,A389,Wrap,5.00,0,completed
+795,A120,Beer,5.50,1,completed
+796,A105,Burger,8.00,0,completed
+797,A468,Burger,8.00,0,completed
+798,A116,Wine,6.00,1,completed
+799,A169,Wine,6.00,1,completed
+800,A104,Wine,6.00,1,completed
+801,A6,Whiskey,10.00,1,completed
+802,A157,Wings,3.60,0,completed
+803,A350,Water,3.00,0,completed
+804,A192,Wine,6.00,1,completed
+805,A230,Beer,5.50,1,completed
+806,A461,"Gin Tonic",11.00,1,completed
+807,A306,Wine,6.00,1,completed
+808,A216,Soda,3.50,0,completed
+809,A189,Wrap,5.00,0,completed
+810,A273,Beer,5.50,1,completed
+811,A268,"Hot Dog",4.50,0,completed
+812,A62,Wine,6.00,1,completed
+813,A278,Burger,8.00,0,completed
+814,A193,Wine,6.00,1,completed
+815,A385,"Hot Dog",4.50,0,completed
+816,A447,"Hot Dog",4.50,0,completed
+817,A116,Fries,3.20,0,completed
+818,A189,Whiskey,10.00,1,completed
+819,A426,Fries,3.20,0,completed
+820,A152,Burger,8.00,0,completed
+821,A410,Soda,3.50,0,completed
+822,A141,Soda,3.50,0,completed
+823,A492,Fries,3.20,0,completed
+824,A277,Wine,6.00,1,completed
+825,A6,Tacos,4.00,0,completed
+826,A305,Burger,8.00,0,completed
+827,A140,"Gin Tonic",11.00,1,completed
+828,A31,Soda,3.50,0,completed
+829,A169,Burger,8.00,0,completed
+830,A227,Soda,3.50,0,completed
+831,A382,"Gin Tonic",11.00,1,completed
+832,A434,Beer,5.50,1,completed
+833,A111,Soda,3.50,0,completed
+834,A436,Wine,6.00,1,completed
+835,A233,Fries,3.20,0,completed
+836,A96,"Gin Tonic",11.00,1,completed
+837,A454,Wings,3.60,0,completed
+838,A291,Wrap,5.00,0,completed
+839,A307,Soda,3.50,0,completed
+840,A349,Soda,3.50,0,completed
+841,A459,"Gin Tonic",11.00,1,completed
+842,A500,Water,3.00,0,completed
+843,A448,Tacos,4.00,0,completed
+844,A42,Burger,8.00,0,completed
+845,A361,Tacos,4.00,0,completed
+846,A488,"Gin Tonic",11.00,1,completed
+847,A354,"Hot Dog",4.50,0,completed
+848,A79,Fries,3.20,0,completed
+849,A499,Soda,3.50,0,completed
+850,A172,Whiskey,10.00,1,completed
+851,A63,Soda,3.50,0,completed
+852,A234,"Gin Tonic",11.00,1,completed
+853,A175,"Hot Dog",4.50,0,completed
+854,A313,"Hot Dog",4.50,0,completed
+855,A91,Whiskey,10.00,1,completed
+856,A123,Whiskey,10.00,1,completed
+857,A369,Fries,3.20,0,completed
+858,A15,Wings,3.60,0,completed
+859,A252,Fries,3.20,0,completed
+860,A340,Water,3.00,0,completed
+861,A350,Beer,5.50,1,completed
+862,A199,Beer,5.50,1,completed
+863,A238,Wrap,5.00,0,completed
+864,A60,"Hot Dog",4.50,0,completed
+865,A118,Water,3.00,0,completed
+866,A401,Soda,3.50,0,completed
+867,A393,Wrap,5.00,0,completed
+868,A31,Soda,3.50,0,completed
+869,A315,"Hot Dog",4.50,0,completed
+870,A483,Fries,3.20,0,completed
+871,A303,Wrap,5.00,0,completed
+872,A141,Tacos,4.00,0,completed
+873,A451,Wings,3.60,0,completed
+874,A105,Wrap,5.00,0,completed
+875,A498,Soda,3.50,0,completed
+876,A75,Water,3.00,0,completed
+877,A297,Whiskey,10.00,1,completed
+878,A202,Burger,8.00,0,completed
+879,A391,Beer,5.50,1,completed
+880,A476,Fries,3.20,0,completed
+881,A253,Wrap,5.00,0,completed
+882,A323,"Gin Tonic",11.00,1,completed
+883,A152,Wings,3.60,0,completed
+884,A270,Wings,3.60,0,completed
+885,A391,Burger,8.00,0,completed
+886,A174,Whiskey,10.00,1,completed
+887,A417,Soda,3.50,0,completed
+888,A256,Whiskey,10.00,1,completed
+889,A459,Burger,8.00,0,completed
+890,A92,Burger,8.00,0,completed
+891,A28,Burger,8.00,0,completed
+892,A273,Tacos,4.00,0,completed
+893,A61,Tacos,4.00,0,completed
+894,A254,Wings,3.60,0,completed
+895,A444,Wine,6.00,1,completed
+896,A308,Burger,8.00,0,completed
+897,A276,Soda,3.50,0,completed
+898,A457,Fries,3.20,0,completed
+899,A499,Burger,8.00,0,completed
+900,A90,Whiskey,10.00,1,completed
+901,A223,Whiskey,10.00,1,completed
+902,A163,Wine,6.00,1,completed
+903,A307,Fries,3.20,0,completed
+904,A103,"Gin Tonic",11.00,1,completed
+905,A497,"Hot Dog",4.50,0,completed
+906,A359,"Gin Tonic",11.00,1,completed
+907,A119,Wine,6.00,1,completed
+908,A379,"Gin Tonic",11.00,1,completed
+909,A471,Soda,3.50,0,completed
+910,A270,"Gin Tonic",11.00,1,completed
+911,A260,"Gin Tonic",11.00,1,completed
+912,A422,Whiskey,10.00,1,completed
+913,A72,"Gin Tonic",11.00,1,completed
+914,A434,Burger,8.00,0,completed
+915,A169,Wings,3.60,0,completed
+916,A225,"Gin Tonic",11.00,1,completed
+917,A57,Tacos,4.00,0,completed
+918,A65,"Gin Tonic",11.00,1,completed
+919,A301,"Gin Tonic",11.00,1,completed
+920,A275,Water,3.00,0,completed
+921,A6,"Gin Tonic",11.00,1,completed
+922,A19,Soda,3.50,0,completed
+923,A143,"Gin Tonic",11.00,1,completed
+924,A186,Tacos,4.00,0,completed
+925,A436,Water,3.00,0,completed
+926,A198,Beer,5.50,1,completed
+927,A82,"Hot Dog",4.50,0,completed
+928,A489,Wings,3.60,0,completed
+929,A122,Wine,6.00,1,completed
+930,A206,Fries,3.20,0,completed
+931,A485,Beer,5.50,1,completed
+932,A26,Whiskey,10.00,1,completed
+933,A216,Soda,3.50,0,completed
+934,A157,Water,3.00,0,completed
+935,A240,Wings,3.60,0,completed
+936,A96,Wrap,5.00,0,completed
+937,A385,Wine,6.00,1,completed
+938,A394,Fries,3.20,0,completed
+939,A277,"Gin Tonic",11.00,1,completed
+940,A182,"Hot Dog",4.50,0,completed
+941,A74,Fries,3.20,0,completed
+942,A444,"Hot Dog",4.50,0,completed
+943,A461,Soda,3.50,0,completed
+944,A191,Whiskey,10.00,1,completed
+945,A454,"Hot Dog",4.50,0,completed
+946,A447,Tacos,4.00,0,completed
+947,A65,Wings,3.60,0,completed
+948,A354,Burger,8.00,0,completed
+949,A149,Tacos,4.00,0,completed
+950,A314,Beer,5.50,1,completed
+951,A192,Beer,5.50,1,completed
+952,A279,Wine,6.00,1,completed
+953,A362,Tacos,4.00,0,completed
+954,A220,"Hot Dog",4.50,0,completed
+955,A18,Burger,8.00,0,completed
+956,A225,Whiskey,10.00,1,completed
+957,A459,Burger,8.00,0,completed
+958,A143,Wings,3.60,0,completed
+959,A203,Tacos,4.00,0,completed
+960,A241,"Gin Tonic",11.00,1,completed
+961,A211,Wine,6.00,1,completed
+962,A332,"Gin Tonic",11.00,1,completed
+963,A108,"Gin Tonic",11.00,1,completed
+964,A81,Whiskey,10.00,1,completed
+965,A178,Whiskey,10.00,1,completed
+966,A87,Soda,3.50,0,completed
+967,A307,Wrap,5.00,0,completed
+968,A278,Burger,8.00,0,completed
+969,A81,Wings,3.60,0,completed
+970,A375,Burger,8.00,0,completed
+971,A423,Soda,3.50,0,completed
+972,A207,Beer,5.50,1,completed
+973,A281,Whiskey,10.00,1,completed
+974,A238,Wings,3.60,0,completed
+975,A230,Wrap,5.00,0,completed
+976,A416,Burger,8.00,0,completed
+977,A313,Burger,8.00,0,completed
+978,A252,Fries,3.20,0,completed
+979,A389,Tacos,4.00,0,completed
+980,A110,Fries,3.20,0,completed
+981,A308,Wine,6.00,1,completed
+982,A378,Wine,6.00,1,completed
+983,A28,Tacos,4.00,0,completed
+984,A471,Whiskey,10.00,1,completed
+985,A332,Wine,6.00,1,completed
+986,A27,Tacos,4.00,0,completed
+987,A303,Wings,3.60,0,completed
+988,A42,"Gin Tonic",11.00,1,completed
+989,A119,Beer,5.50,1,completed
+990,A112,Water,3.00,0,completed
+991,A216,Burger,8.00,0,completed
+992,A476,Wings,3.60,0,completed
+993,A253,"Hot Dog",4.50,0,completed
+994,A273,Water,3.00,0,completed
+995,A312,Whiskey,10.00,1,completed
+996,A157,Wine,6.00,1,completed
+997,A391,Burger,8.00,0,completed
+998,A316,Wings,3.60,0,completed
+999,A464,"Gin Tonic",11.00,1,completed
+1000,A309,Beer,5.50,1,completed
+1001,A346,"Gin Tonic",11.00,1,completed
+1002,A413,Whiskey,10.00,1,completed
+1003,A402,"Hot Dog",4.50,0,completed
+1004,A10,Wrap,5.00,0,completed
+1005,A193,Whiskey,10.00,1,completed
+1006,A287,Water,3.00,0,completed
+1007,A498,Wine,6.00,1,completed
+1008,A489,Wrap,5.00,0,completed
+1009,A334,Soda,3.50,0,completed
+1010,A30,Whiskey,10.00,1,completed
+1011,A223,"Gin Tonic",11.00,1,completed
+1012,A394,Soda,3.50,0,completed
+1013,A351,"Gin Tonic",11.00,1,completed
+1014,A389,"Gin Tonic",11.00,1,completed
+1015,A378,Tacos,4.00,0,completed
+1016,A45,Burger,8.00,0,completed
+1017,A302,"Hot Dog",4.50,0,completed
+1018,A279,Soda,3.50,0,completed
+1019,A406,Beer,5.50,1,completed
+1020,A254,Tacos,4.00,0,completed
+1021,A149,Beer,5.50,1,completed
+1022,A363,Wrap,5.00,0,completed
+1023,A305,Tacos,4.00,0,completed
+1024,A142,Beer,5.50,1,completed
+1025,A318,Tacos,4.00,0,completed
+1026,A198,Beer,5.50,1,completed
+1027,A5,Water,3.00,0,completed
+1028,A206,Wine,6.00,1,completed
+1029,A270,"Hot Dog",4.50,0,completed
+1030,A305,Wine,6.00,1,completed
+1031,A479,Wrap,5.00,0,completed
+1032,A257,Fries,3.20,0,completed
+1033,A311,Water,3.00,0,completed
+1034,A269,Wings,3.60,0,completed
+1035,A411,Soda,3.50,0,completed
+1036,A291,Water,3.00,0,completed
+1037,A76,Tacos,4.00,0,completed
+1038,A48,Fries,3.20,0,completed
+1039,A169,Tacos,4.00,0,completed
+1040,A240,"Gin Tonic",11.00,1,completed
+1041,A26,Wings,3.60,0,completed
+1042,A65,Wings,3.60,0,completed
+1043,A468,Wine,6.00,1,completed
+1044,A230,Wrap,5.00,0,completed
+1045,A79,"Gin Tonic",11.00,1,completed
+1046,A117,Beer,5.50,1,completed
+1047,A447,Fries,3.20,0,completed
+1048,A371,Whiskey,10.00,1,completed
+1049,A373,Burger,8.00,0,completed
+1050,A497,"Hot Dog",4.50,0,completed
+1051,A309,Water,3.00,0,completed
+1052,A226,"Gin Tonic",11.00,1,completed
+1053,A16,Whiskey,10.00,1,completed
+1054,A82,Wings,3.60,0,completed
+1055,A398,Tacos,4.00,0,completed
+1056,A236,Wings,3.60,0,completed
+1057,A262,Whiskey,10.00,1,completed
+1058,A467,"Gin Tonic",11.00,1,completed
+1059,A189,Burger,8.00,0,completed
+1060,A30,Wine,6.00,1,completed
+1061,A340,Soda,3.50,0,completed
+1062,A423,"Gin Tonic",11.00,1,completed
+1063,A451,Wine,6.00,1,completed
+1064,A305,Tacos,4.00,0,completed
+1065,A309,Wings,3.60,0,completed
+1066,A461,Fries,3.20,0,completed
+1067,A130,Soda,3.50,0,completed
+1068,A75,Wrap,5.00,0,completed
+1069,A119,Beer,5.50,1,completed
+1070,A244,Wrap,5.00,0,completed
+1071,A385,Soda,3.50,0,completed
+1072,A307,Water,3.00,0,completed
+1073,A452,Water,3.00,0,completed
+1074,A429,Burger,8.00,0,completed
+1075,A391,Fries,3.20,0,completed
+1076,A141,Burger,8.00,0,completed
+1077,A382,Burger,8.00,0,completed
+1078,A175,Soda,3.50,0,completed
+1079,A225,Burger,8.00,0,completed
+1080,A444,Wings,3.60,0,completed
+1081,A302,Wrap,5.00,0,completed
+1082,A376,Fries,3.20,0,completed
+1083,A454,Whiskey,10.00,1,completed
+1084,A448,Soda,3.50,0,completed
+1085,A104,Soda,3.50,0,completed
+1086,A287,Tacos,4.00,0,completed
+1087,A100,Water,3.00,0,completed
+1088,A111,Beer,5.50,1,completed
+1089,A410,Soda,3.50,0,completed
+1090,A359,"Gin Tonic",11.00,1,completed
+1091,A459,Fries,3.20,0,completed
+1092,A169,Beer,5.50,1,completed
+1093,A148,"Hot Dog",4.50,0,completed
+1094,A379,Wrap,5.00,0,completed
+1095,A192,Burger,8.00,0,completed
+1096,A312,"Hot Dog",4.50,0,completed
+1097,A493,"Hot Dog",4.50,0,completed
+1098,A341,Wings,3.60,0,completed
+1099,A96,Water,3.00,0,completed
+1100,A260,"Hot Dog",4.50,0,completed
+1101,A257,Tacos,4.00,0,completed
+1102,A477,Wine,6.00,1,completed
+1103,A198,Fries,3.20,0,completed
+1104,A95,Wine,6.00,1,completed
+1105,A402,Soda,3.50,0,completed
+1106,A105,Water,3.00,0,completed
+1107,A86,Whiskey,10.00,1,completed
+1108,A56,Wine,6.00,1,completed
+1109,A499,Wings,3.60,0,completed
+1110,A489,"Hot Dog",4.50,0,completed
+1111,A381,Beer,5.50,1,completed
+1112,A485,Whiskey,10.00,1,completed
+1113,A153,Wine,6.00,1,completed
+1114,A406,Whiskey,10.00,1,completed
+1115,A452,"Hot Dog",4.50,0,completed
+1116,A33,Wrap,5.00,0,completed
+1117,A498,Beer,5.50,1,completed
+1118,A436,Burger,8.00,0,completed
+1119,A226,Soda,3.50,0,completed
+1120,A421,Fries,3.20,0,completed
+1121,A157,Water,3.00,0,completed
+1122,A241,Burger,8.00,0,completed
+1123,A222,Fries,3.20,0,completed
+1124,A311,Wine,6.00,1,completed
+1125,A27,"Hot Dog",4.50,0,completed
+1126,A120,Water,3.00,0,completed
+1127,A305,"Hot Dog",4.50,0,completed
+1128,A230,Burger,8.00,0,completed
+1129,A18,Tacos,4.00,0,completed
+1130,A447,Wings,3.60,0,completed
+1131,A439,Soda,3.50,0,completed
+1132,A142,Wrap,5.00,0,completed
+1133,A130,Fries,3.20,0,completed
+1134,A180,Wrap,5.00,0,completed
+1135,A413,Soda,3.50,0,completed
+1136,A479,Wine,6.00,1,completed
+1137,A116,Whiskey,10.00,1,completed
+1138,A417,Burger,8.00,0,completed
+1139,A233,"Gin Tonic",11.00,1,completed
+1140,A155,"Gin Tonic",11.00,1,completed
+1141,A461,"Gin Tonic",11.00,1,completed
+1142,A321,Whiskey,10.00,1,completed
+1143,A394,Water,3.00,0,completed
+1144,A239,Soda,3.50,0,completed
+1145,A359,Beer,5.50,1,completed
+1146,A291,Beer,5.50,1,completed
+1147,A15,Whiskey,10.00,1,completed
+1148,A97,Tacos,4.00,0,completed
+1149,A320,Wrap,5.00,0,completed
+1150,A278,Wine,6.00,1,completed
+1151,A483,Tacos,4.00,0,completed
+1152,A243,Water,3.00,0,completed
+1153,A60,Tacos,4.00,0,completed
+1154,A220,Water,3.00,0,completed
+1155,A411,Wings,3.60,0,completed
+1156,A105,"Hot Dog",4.50,0,completed
+1157,A89,Wings,3.60,0,completed
+1158,A82,"Hot Dog",4.50,0,completed
+1159,A86,Water,3.00,0,completed
+1160,A398,Whiskey,10.00,1,completed
+1161,A492,Fries,3.20,0,completed
+1162,A254,"Hot Dog",4.50,0,completed
+1163,A247,Beer,5.50,1,completed
+1164,A144,Water,3.00,0,completed
+1165,A186,Wine,6.00,1,completed
+1166,A348,Wine,6.00,1,completed
+1167,A349,Water,3.00,0,completed
+1168,A458,Fries,3.20,0,completed
+1169,A270,Soda,3.50,0,completed
+1170,A43,Wrap,5.00,0,completed
+1171,A264,Wrap,5.00,0,completed
+1172,A108,"Gin Tonic",11.00,1,completed
+1173,A340,Soda,3.50,0,completed
+1174,A461,Beer,5.50,1,completed
+1175,A34,Fries,3.20,0,completed
+1176,A85,Wrap,5.00,0,completed
+1177,A363,Wine,6.00,1,completed
+1178,A487,Tacos,4.00,0,completed
+1179,A484,"Hot Dog",4.50,0,completed
+1180,A432,Wine,6.00,1,completed
+1181,A298,Soda,3.50,0,completed
+1182,A53,Wrap,5.00,0,completed
+1183,A383,Water,3.00,0,completed
+1184,A4,Water,3.00,0,completed
+1185,A193,Fries,3.20,0,completed
+1186,A142,Fries,3.20,0,completed
+1187,A153,Fries,3.20,0,completed
+1188,A60,Water,3.00,0,completed
+1189,A267,Burger,8.00,0,completed
+1190,A172,Wrap,5.00,0,completed
+1191,A16,Soda,3.50,0,completed
+1192,A404,Soda,3.50,0,completed
+1193,A452,Beer,5.50,1,completed
+1194,A236,"Hot Dog",4.50,0,completed
+1195,A307,Wine,6.00,1,completed
+1196,A5,Tacos,4.00,0,completed
+1197,A315,Tacos,4.00,0,completed
+1198,A130,Burger,8.00,0,completed
+1199,A311,"Hot Dog",4.50,0,completed
+1200,A312,Wine,6.00,1,completed
+1201,A170,Wrap,5.00,0,completed
+1202,A313,"Gin Tonic",11.00,1,completed
+1203,A373,Wings,3.60,0,completed
+1204,A104,Water,3.00,0,completed
+1205,A373,Water,3.00,0,completed
+1206,A202,"Gin Tonic",11.00,1,completed
+1207,A402,Water,3.00,0,completed
+1208,A423,Tacos,4.00,0,completed
+1209,A269,"Gin Tonic",11.00,1,completed
+1210,A197,"Gin Tonic",11.00,1,completed
+1211,A278,Beer,5.50,1,completed
+1212,A10,Wrap,5.00,0,completed
+1213,A43,Wine,6.00,1,completed
+1214,A141,Wine,6.00,1,completed
+1215,A416,"Gin Tonic",11.00,1,completed
+1216,A377,Water,3.00,0,completed
+1217,A53,Soda,3.50,0,completed
+1218,A305,Wrap,5.00,0,completed
+1219,A379,Water,3.00,0,completed
+1220,A454,Water,3.00,0,completed
+1221,A15,Wrap,5.00,0,completed
+1222,A100,Wings,3.60,0,completed
+1223,A136,Tacos,4.00,0,completed
+1224,A448,Tacos,4.00,0,completed
+1225,A243,Wrap,5.00,0,completed
+1226,A180,Tacos,4.00,0,completed
+1227,A134,Wings,3.60,0,completed
+1228,A83,Wrap,5.00,0,completed
+1229,A447,Wrap,5.00,0,completed
+1230,A157,Soda,3.50,0,completed
+1231,A227,Burger,8.00,0,completed
+1232,A302,Soda,3.50,0,completed
+1233,A243,Wine,6.00,1,completed
+1234,A498,Fries,3.20,0,completed
+1235,A148,Tacos,4.00,0,completed
+1236,A268,Beer,5.50,1,completed
+1237,A354,Burger,8.00,0,completed
+1238,A118,Water,3.00,0,completed
+1239,A6,Wings,3.60,0,completed
+1240,A100,"Gin Tonic",11.00,1,completed
+1241,A375,Beer,5.50,1,completed
+1242,A411,"Gin Tonic",11.00,1,completed
+1243,A236,Water,3.00,0,completed
+1244,A291,"Hot Dog",4.50,0,completed
+1245,A39,Wings,3.60,0,completed
+1246,A310,"Gin Tonic",11.00,1,completed
+1247,A163,Tacos,4.00,0,completed
+1248,A170,"Gin Tonic",11.00,1,completed
+1249,A33,Beer,5.50,1,completed
+1250,A204,Wings,3.60,0,completed
+1251,A256,Whiskey,10.00,1,completed
+1252,A34,"Gin Tonic",11.00,1,completed
+1253,A189,Water,3.00,0,completed
+1254,A284,Beer,5.50,1,completed
+1255,A389,Beer,5.50,1,completed
+1256,A401,Beer,5.50,1,completed
+1257,A346,Fries,3.20,0,completed
+1258,A309,Water,3.00,0,completed
+1259,A284,"Hot Dog",4.50,0,completed
+1260,A166,Wings,3.60,0,completed
+1261,A132,Tacos,4.00,0,completed
+1262,A477,Whiskey,10.00,1,completed
+1263,A108,Beer,5.50,1,completed
+1264,A342,Fries,3.20,0,completed
+1265,A423,"Gin Tonic",11.00,1,completed
+1266,A373,Wings,3.60,0,completed
+1267,A16,"Hot Dog",4.50,0,completed
+1268,A467,Water,3.00,0,completed
+1269,A412,Wine,6.00,1,completed
+1270,A181,"Hot Dog",4.50,0,completed
+1271,A158,Fries,3.20,0,completed
+1272,A312,Fries,3.20,0,completed
+1273,A141,Fries,3.20,0,completed
+1274,A191,Burger,8.00,0,completed
+1275,A468,Fries,3.20,0,completed
+1276,A149,Water,3.00,0,completed
+1277,A284,Soda,3.50,0,completed
+1278,A12,Wings,3.60,0,completed
+1279,A402,"Hot Dog",4.50,0,completed
+1280,A104,Wrap,5.00,0,completed
+1281,A223,Beer,5.50,1,completed
+1282,A180,Tacos,4.00,0,completed
+1283,A271,"Hot Dog",4.50,0,completed
+1284,A116,Beer,5.50,1,completed
+1285,A311,Burger,8.00,0,completed
+1286,A224,Wrap,5.00,0,completed
+1287,A242,Tacos,4.00,0,completed
+1288,A60,Wings,3.60,0,completed
+1289,A247,Wine,6.00,1,completed
+1290,A454,Wine,6.00,1,completed
+1291,A104,Water,3.00,0,completed
+1292,A34,Whiskey,10.00,1,completed
+1293,A89,Tacos,4.00,0,completed
+1294,A16,Wrap,5.00,0,completed
+1295,A452,Whiskey,10.00,1,completed
+1296,A309,Burger,8.00,0,completed
+1297,A365,Fries,3.20,0,completed
+1298,A86,Soda,3.50,0,completed
+1299,A105,Burger,8.00,0,completed
+1300,A341,Fries,3.20,0,completed
+1301,A10,Whiskey,10.00,1,completed
+1302,A472,Tacos,4.00,0,completed
+1303,A112,"Hot Dog",4.50,0,completed
+1304,A441,"Hot Dog",4.50,0,completed
+1305,A447,Wine,6.00,1,completed
+1306,A241,Water,3.00,0,completed
+1307,A401,Water,3.00,0,completed
+1308,A4,Burger,8.00,0,completed
+1309,A286,Beer,5.50,1,completed
+1310,A192,Fries,3.20,0,completed
+1311,A97,Soda,3.50,0,completed
+1312,A162,Burger,8.00,0,completed
+1313,A363,Tacos,4.00,0,completed
+1314,A342,Beer,5.50,1,completed
+1315,A136,Soda,3.50,0,completed
+1316,A415,"Gin Tonic",11.00,1,completed
+1317,A415,Tacos,4.00,0,completed
+1318,A394,Wine,6.00,1,completed
+1319,A315,Soda,3.50,0,completed
+1320,A87,"Gin Tonic",11.00,1,completed
+1321,A220,Whiskey,10.00,1,completed
+1322,A186,Soda,3.50,0,completed
+1323,A268,"Hot Dog",4.50,0,completed
+1324,A423,Fries,3.20,0,completed
+1325,A206,Wrap,5.00,0,completed
+1326,A491,Water,3.00,0,completed
+1327,A39,"Hot Dog",4.50,0,completed
+1328,A280,"Gin Tonic",11.00,1,completed
+1329,A332,Whiskey,10.00,1,completed
+1330,A227,Fries,3.20,0,completed
+1331,A498,Water,3.00,0,completed
+1332,A254,Wings,3.60,0,completed
+1333,A398,Fries,3.20,0,completed
+1334,A477,Soda,3.50,0,completed
+1335,A73,Beer,5.50,1,completed
+1336,A424,Burger,8.00,0,completed
+1337,A223,Beer,5.50,1,completed
+1338,A222,Soda,3.50,0,completed
+1339,A153,"Hot Dog",4.50,0,completed
+1340,A301,Wrap,5.00,0,completed
+1341,A218,Fries,3.20,0,completed
+1342,A270,Burger,8.00,0,completed
+1343,A477,Whiskey,10.00,1,completed
+1344,A381,Soda,3.50,0,completed
+1345,A437,Soda,3.50,0,completed
+1346,A381,Wrap,5.00,0,completed
+1347,A375,Tacos,4.00,0,completed
+1348,A421,Soda,3.50,0,completed
+1349,A382,Wings,3.60,0,completed
+1350,A393,"Hot Dog",4.50,0,completed
+1351,A309,"Gin Tonic",11.00,1,completed
+1352,A411,Tacos,4.00,0,completed
+1353,A105,Tacos,4.00,0,completed
+1354,A340,Whiskey,10.00,1,completed
+1355,A477,Burger,8.00,0,completed
+1356,A60,Tacos,4.00,0,completed
+1357,A74,"Gin Tonic",11.00,1,completed
+1358,A271,Water,3.00,0,completed
+1359,A493,Burger,8.00,0,completed
+1360,A260,Tacos,4.00,0,completed
+1361,A130,Wings,3.60,0,completed
+1362,A117,Wrap,5.00,0,completed
+1363,A224,Water,3.00,0,completed
+1364,A233,Tacos,4.00,0,completed
+1365,A448,"Hot Dog",4.50,0,completed
+1366,A34,"Hot Dog",4.50,0,completed
+1367,A297,Tacos,4.00,0,completed
+1368,A277,Whiskey,10.00,1,completed
+1369,A220,Soda,3.50,0,completed
+1370,A181,Water,3.00,0,completed
+1371,A35,Water,3.00,0,completed
+1372,A239,Tacos,4.00,0,completed
+1373,A341,Tacos,4.00,0,completed
+1374,A216,Beer,5.50,1,completed
+1375,A346,Fries,3.20,0,completed
+1376,A203,Water,3.00,0,completed
+1377,A82,"Hot Dog",4.50,0,completed
+1378,A193,Wine,6.00,1,completed
+1379,A302,Whiskey,10.00,1,completed
+1380,A262,"Hot Dog",4.50,0,completed
+1381,A301,Wrap,5.00,0,completed
+1382,A342,Soda,3.50,0,completed
+1383,A399,Water,3.00,0,completed
+1384,A298,Tacos,4.00,0,completed
+1385,A112,Wings,3.60,0,completed
+1386,A135,Fries,3.20,0,completed
+1387,A472,Water,3.00,0,completed
+1388,A454,Wine,6.00,1,completed
+1389,A277,Wings,3.60,0,completed
+1390,A39,Whiskey,10.00,1,completed
+1391,A242,Beer,5.50,1,completed
+1392,A309,Wings,3.60,0,completed
+1393,A12,"Hot Dog",4.50,0,completed
+1394,A181,Wings,3.60,0,completed
+1395,A233,"Gin Tonic",11.00,1,completed
+1396,A222,Wine,6.00,1,completed
+1397,A391,Wine,6.00,1,completed
+1398,A498,Tacos,4.00,0,completed
+1399,A132,Water,3.00,0,completed
+1400,A423,Whiskey,10.00,1,completed
+1401,A189,Fries,3.20,0,completed
+1402,A268,Wrap,5.00,0,completed
+1403,A97,Whiskey,10.00,1,completed
+1404,A452,Water,3.00,0,completed
+1405,A378,Tacos,4.00,0,completed
+1406,A411,Tacos,4.00,0,completed
+1407,A254,Whiskey,10.00,1,completed
+1408,A87,Wings,3.60,0,completed
+1409,A292,Burger,8.00,0,completed
+1410,A136,Burger,8.00,0,completed
+1411,A280,Fries,3.20,0,completed
+1412,A363,"Gin Tonic",11.00,1,completed
+1413,A16,"Hot Dog",4.50,0,completed
+1414,A158,Whiskey,10.00,1,completed
+1415,A74,"Gin Tonic",11.00,1,completed
+1416,A10,Water,3.00,0,completed
+1417,A216,Wine,6.00,1,completed
+1418,A241,Water,3.00,0,completed
+1419,A287,Soda,3.50,0,completed
+1420,A144,Beer,5.50,1,completed
+1421,A222,Beer,5.50,1,completed
+1422,A382,Burger,8.00,0,completed
+1423,A34,"Hot Dog",4.50,0,completed
+1424,A158,Wings,3.60,0,completed
+1425,A287,Beer,5.50,1,completed
+1426,A362,"Gin Tonic",11.00,1,completed
+1427,A500,Tacos,4.00,0,completed
+1428,A53,Water,3.00,0,completed
+1429,A273,Wings,3.60,0,completed
+1430,A267,Wings,3.60,0,completed
+1431,A140,"Hot Dog",4.50,0,completed
+1432,A189,Fries,3.20,0,completed
+1433,A412,Tacos,4.00,0,completed
+1434,A444,Tacos,4.00,0,completed
+1435,A27,"Gin Tonic",11.00,1,completed
+1436,A225,Fries,3.20,0,completed
+1437,A398,Fries,3.20,0,completed
+1438,A163,Wine,6.00,1,completed
+1439,A153,Wine,6.00,1,completed
+1440,A45,Fries,3.20,0,completed
+1441,A359,Beer,5.50,1,completed
+1442,A108,Water,3.00,0,completed
+1443,A311,Beer,5.50,1,completed
+1444,A454,Burger,8.00,0,completed
+1445,A431,Whiskey,10.00,1,completed
+1446,A491,Soda,3.50,0,completed
+1447,A399,Soda,3.50,0,completed
+1448,A301,Tacos,4.00,0,completed
+1449,A135,Beer,5.50,1,completed
+1450,A457,Beer,5.50,1,completed
+1451,A476,Wings,3.60,0,completed
+1452,A394,Wine,6.00,1,completed
+1453,A404,Burger,8.00,0,completed
+1454,A264,Wrap,5.00,0,completed
+1455,A181,Water,3.00,0,completed
+1456,A233,"Gin Tonic",11.00,1,completed
+1457,A306,Water,3.00,0,completed
+1458,A34,Soda,3.50,0,completed
+1459,A134,Fries,3.20,0,completed
+1460,A170,Soda,3.50,0,completed
+1461,A269,Wrap,5.00,0,completed
+1462,A260,"Hot Dog",4.50,0,completed
+1463,A193,"Hot Dog",4.50,0,completed
+1464,A97,Fries,3.20,0,completed
+1465,A292,Fries,3.20,0,completed
+1466,A267,Beer,5.50,1,completed
+1467,A447,Wings,3.60,0,completed
+1468,A309,Wine,6.00,1,completed
+1469,A401,Tacos,4.00,0,completed
+1470,A74,"Gin Tonic",11.00,1,completed
+1471,A186,Tacos,4.00,0,completed
+1472,A132,Beer,5.50,1,completed
+1473,A402,Beer,5.50,1,completed
+1474,A498,Wine,6.00,1,completed
+1475,A144,Beer,5.50,1,completed
+1476,A216,Soda,3.50,0,completed
+1477,A412,Tacos,4.00,0,completed
+1478,A421,"Hot Dog",4.50,0,completed
+1479,A76,Burger,8.00,0,completed
+1480,A110,"Gin Tonic",11.00,1,completed
+1481,A111,Fries,3.20,0,completed
+1482,A18,Beer,5.50,1,completed
+1483,A441,Burger,8.00,0,completed
+1484,A487,"Hot Dog",4.50,0,completed
+1485,A27,"Gin Tonic",11.00,1,completed
+1486,A378,Soda,3.50,0,completed
+1487,A342,Burger,8.00,0,completed
+1488,A459,Whiskey,10.00,1,completed
+1489,A277,"Gin Tonic",11.00,1,completed
+1490,A87,Fries,3.20,0,completed
+1491,A411,Water,3.00,0,completed
+1492,A472,Wings,3.60,0,completed
+1493,A222,Whiskey,10.00,1,completed
+1494,A467,"Gin Tonic",11.00,1,completed
+1495,A413,Burger,8.00,0,completed
+1496,A436,"Hot Dog",4.50,0,completed
+1497,A172,"Gin Tonic",11.00,1,completed
+1498,A287,Burger,8.00,0,completed
+1499,A415,Beer,5.50,1,completed
+1500,A119,Water,3.00,0,completed
+1501,A20,"Hot Dog",4.50,0,completed
+1502,A60,Soda,3.50,0,completed
+1503,A373,Whiskey,10.00,1,completed
+1504,A382,"Hot Dog",4.50,0,completed
+1505,A310,"Hot Dog",4.50,0,completed
+1506,A211,Whiskey,10.00,1,completed
+1507,A130,Wrap,5.00,0,completed
+1508,A218,Beer,5.50,1,completed
+1509,A141,Beer,5.50,1,completed
+1510,A301,Wings,3.60,0,completed
+1511,A85,Whiskey,10.00,1,completed
+1512,A226,"Gin Tonic",11.00,1,completed
+1513,A39,"Gin Tonic",11.00,1,completed
+1514,A174,Whiskey,10.00,1,completed
+1515,A277,Wrap,5.00,0,completed
+1516,A47,Tacos,4.00,0,completed
+1517,A262,Whiskey,10.00,1,completed
+1518,A181,Burger,8.00,0,completed
+1519,A268,Burger,8.00,0,completed
+1520,A332,Wrap,5.00,0,completed
+1521,A76,Soda,3.50,0,completed
+1522,A404,Soda,3.50,0,completed
+1523,A132,"Hot Dog",4.50,0,completed
+1524,A103,"Hot Dog",4.50,0,completed
+1525,A413,Tacos,4.00,0,completed
+1526,A399,Beer,5.50,1,completed
+1527,A112,Tacos,4.00,0,completed
+1528,A497,Burger,8.00,0,completed
+1529,A10,Soda,3.50,0,completed
+1530,A254,Whiskey,10.00,1,completed
+1531,A15,Tacos,4.00,0,completed
+1532,A174,Wrap,5.00,0,completed
+1533,A220,Whiskey,10.00,1,completed
+1534,A10,Soda,3.50,0,completed
+1535,A264,Wine,6.00,1,completed
+1536,A74,Wine,6.00,1,completed
+1537,A307,Tacos,4.00,0,completed
+1538,A379,Fries,3.20,0,completed
+1539,A136,Fries,3.20,0,completed
+1540,A500,Beer,5.50,1,completed
+1541,A206,Water,3.00,0,completed
+1542,A315,"Hot Dog",4.50,0,completed
+1543,A216,"Hot Dog",4.50,0,completed
+1544,A239,Burger,8.00,0,completed
+1545,A459,Beer,5.50,1,completed
+1546,A163,Burger,8.00,0,completed
+1547,A313,Beer,5.50,1,completed
+1548,A186,Wings,3.60,0,completed
+1549,A158,Wine,6.00,1,completed
+1550,A260,Wine,6.00,1,completed
+1551,A267,Wrap,5.00,0,completed
+1552,A262,Tacos,4.00,0,completed
+1553,A487,"Gin Tonic",11.00,1,completed
+1554,A391,Whiskey,10.00,1,completed
+1555,A500,Tacos,4.00,0,completed
+1556,A472,Burger,8.00,0,completed
+1557,A53,Wings,3.60,0,completed
+1558,A341,Water,3.00,0,completed
+1559,A117,Soda,3.50,0,completed
+1560,A141,"Hot Dog",4.50,0,completed
+1561,A60,Wine,6.00,1,completed
+1562,A273,Soda,3.50,0,completed
+1563,A162,Tacos,4.00,0,completed
+1564,A484,Wine,6.00,1,completed
+1565,A148,Soda,3.50,0,completed
+1566,A373,Wine,6.00,1,completed
+1567,A318,Wings,3.60,0,completed
+1568,A35,Wine,6.00,1,completed
+1569,A411,Burger,8.00,0,completed
+1570,A413,Fries,3.20,0,completed
+1571,A222,"Hot Dog",4.50,0,completed
+1572,A242,Wings,3.60,0,completed
+1573,A287,Wings,3.60,0,completed
+1574,A153,Wings,3.60,0,completed
+1575,A417,Beer,5.50,1,completed
+1576,A391,Soda,3.50,0,completed
+1577,A485,Water,3.00,0,completed
+1578,A227,"Hot Dog",4.50,0,completed
+1579,A375,Beer,5.50,1,completed
+1580,A270,Wings,3.60,0,completed
+1581,A100,Fries,3.20,0,completed
+1582,A422,Fries,3.20,0,completed
+1583,A487,Burger,8.00,0,completed
+1584,A309,Soda,3.50,0,completed
+1585,A447,"Gin Tonic",11.00,1,completed
+1586,A218,Wrap,5.00,0,completed
+1587,A441,Soda,3.50,0,completed
+1588,A381,Beer,5.50,1,completed
+1589,A20,Wine,6.00,1,completed
+1590,A74,Whiskey,10.00,1,completed
+1591,A452,"Hot Dog",4.50,0,completed
+1592,A459,Soda,3.50,0,completed
+1593,A158,Wine,6.00,1,completed
+1594,A204,Tacos,4.00,0,completed
+1595,A148,Tacos,4.00,0,completed
+1596,A216,"Hot Dog",4.50,0,completed
+1597,A131,Wings,3.60,0,completed
+1598,A236,Whiskey,10.00,1,completed
+1599,A134,Fries,3.20,0,completed
+1600,A332,"Hot Dog",4.50,0,completed
+1601,A310,Beer,5.50,1,completed
+1602,A373,"Hot Dog",4.50,0,completed
+1603,A118,Wine,6.00,1,completed
+1604,A306,Soda,3.50,0,completed
+1605,A111,"Gin Tonic",11.00,1,completed
+1606,A281,"Gin Tonic",11.00,1,completed
+1607,A313,Wrap,5.00,0,completed
+1608,A136,"Gin Tonic",11.00,1,completed
+1609,A141,"Gin Tonic",11.00,1,completed
+1610,A130,"Hot Dog",4.50,0,completed
+1611,A404,Burger,8.00,0,completed
+1612,A484,Wrap,5.00,0,completed
+1613,A111,Fries,3.20,0,completed
+1614,A257,Wine,6.00,1,completed
+1615,A242,Burger,8.00,0,completed
+1616,A487,Water,3.00,0,completed
+1617,A376,Beer,5.50,1,completed
+1618,A381,Tacos,4.00,0,completed
+1619,A481,"Gin Tonic",11.00,1,completed
+1620,A203,Burger,8.00,0,completed
+1621,A447,"Hot Dog",4.50,0,completed
+1622,A267,Burger,8.00,0,completed
+1623,A222,Wings,3.60,0,completed
+1624,A227,Soda,3.50,0,completed
+1625,A20,Whiskey,10.00,1,completed
+1626,A174,"Hot Dog",4.50,0,completed
+1627,A308,"Gin Tonic",11.00,1,completed
+1628,A85,Wings,3.60,0,completed
+1629,A135,Soda,3.50,0,completed
+1630,A375,"Hot Dog",4.50,0,completed
+1631,A452,Beer,5.50,1,completed
+1632,A310,Water,3.00,0,completed
+1633,A269,Tacos,4.00,0,completed
+1634,A493,Wings,3.60,0,completed
+1635,A476,"Hot Dog",4.50,0,completed
+1636,A108,Beer,5.50,1,completed
+1637,A74,Wine,6.00,1,completed
+1638,A363,"Hot Dog",4.50,0,completed
+1639,A404,Wrap,5.00,0,completed
+1640,A437,Wine,6.00,1,completed
+1641,A162,Burger,8.00,0,completed
+1642,A491,"Hot Dog",4.50,0,completed
+1643,A15,Fries,3.20,0,completed
+1644,A97,Beer,5.50,1,completed
+1645,A422,Beer,5.50,1,completed
+1646,A54,Wrap,5.00,0,completed
+1647,A277,Fries,3.20,0,completed
+1648,A141,Wine,6.00,1,completed
+1649,A301,"Hot Dog",4.50,0,completed
+1650,A376,Soda,3.50,0,completed
+1651,A39,Burger,8.00,0,completed
+1652,A447,"Hot Dog",4.50,0,completed
+1653,A18,Tacos,4.00,0,completed
+1654,A148,Wings,3.60,0,completed
+1655,A287,"Gin Tonic",11.00,1,completed
+1656,A439,Soda,3.50,0,completed
+1657,A226,Wrap,5.00,0,completed
+1658,A118,Water,3.00,0,completed
+1659,A103,Tacos,4.00,0,completed
+1660,A186,Burger,8.00,0,completed
+1661,A437,Water,3.00,0,completed
+1662,A332,Whiskey,10.00,1,completed
+1663,A492,"Gin Tonic",11.00,1,completed
+1664,A111,Beer,5.50,1,completed
+1665,A269,Wings,3.60,0,completed
+1666,A85,Wrap,5.00,0,completed
+1667,A192,"Hot Dog",4.50,0,completed
+1668,A162,Wrap,5.00,0,completed
+1669,A490,Tacos,4.00,0,completed
+1670,A484,Wings,3.60,0,completed
+1671,A104,Soda,3.50,0,completed
+1672,A431,Burger,8.00,0,completed
+1673,A444,Tacos,4.00,0,completed
+1674,A110,"Gin Tonic",11.00,1,completed
+1675,A467,"Gin Tonic",11.00,1,completed
+1676,A373,Soda,3.50,0,completed
+1677,A4,Water,3.00,0,completed
+1678,A256,"Gin Tonic",11.00,1,completed
+1679,A268,"Hot Dog",4.50,0,completed
+1680,A363,Whiskey,10.00,1,completed
+1681,A186,"Hot Dog",4.50,0,completed
+1682,A220,Wine,6.00,1,completed
+1683,A492,Wine,6.00,1,completed
+1684,A447,Whiskey,10.00,1,completed
+1685,A134,"Gin Tonic",11.00,1,completed
+1686,A27,Wings,3.60,0,completed
+1687,A363,Wings,3.60,0,completed
+1688,A141,"Hot Dog",4.50,0,completed
+1689,A134,Wine,6.00,1,completed
+1690,A63,Wrap,5.00,0,completed
+1691,A269,Wine,6.00,1,completed
+1692,A401,Wine,6.00,1,completed
+1693,A45,"Gin Tonic",11.00,1,completed
+1694,A485,Soda,3.50,0,completed
+1695,A216,Soda,3.50,0,completed
+1696,A476,"Gin Tonic",11.00,1,completed
+1697,A286,Fries,3.20,0,completed
+1698,A15,Fries,3.20,0,completed
+1699,A281,Beer,5.50,1,completed
+1700,A481,Soda,3.50,0,completed
+1701,A100,"Hot Dog",4.50,0,completed
+1702,A411,Tacos,4.00,0,completed
+1703,A260,Wine,6.00,1,completed
+1704,A493,Burger,8.00,0,completed
+1705,A254,Water,3.00,0,completed
+1706,A381,Wine,6.00,1,completed
+1707,A262,Fries,3.20,0,completed
+1708,A155,Wings,3.60,0,completed
+1709,A226,Wings,3.60,0,completed
+1710,A218,Burger,8.00,0,completed
+1711,A437,Wine,6.00,1,completed
+1712,A111,"Gin Tonic",11.00,1,completed
+1713,A220,Tacos,4.00,0,completed
+1714,A382,Wine,6.00,1,completed
+1715,A141,Water,3.00,0,completed
+1716,A444,Wings,3.60,0,completed
+1717,A404,Wings,3.60,0,completed
+1718,A186,Fries,3.20,0,completed
+1719,A451,Tacos,4.00,0,completed
+1720,A487,Soda,3.50,0,completed
+1721,A375,Fries,3.20,0,completed
+1722,A262,Wings,3.60,0,completed
+1723,A484,Fries,3.20,0,completed
+1724,A476,Beer,5.50,1,completed
+1725,A206,Water,3.00,0,completed
+1726,A376,Wrap,5.00,0,completed
+1727,A15,Beer,5.50,1,completed
+1728,A452,Water,3.00,0,completed
+1729,A63,Water,3.00,0,completed
+1730,A153,Wings,3.60,0,completed
+1731,A47,Beer,5.50,1,completed
+1732,A401,Burger,8.00,0,completed
+1733,A53,Burger,8.00,0,completed
+1734,A268,Tacos,4.00,0,completed
+1735,A74,Whiskey,10.00,1,completed
+1736,A342,Fries,3.20,0,completed
+1737,A134,"Hot Dog",4.50,0,completed
+1738,A222,Fries,3.20,0,completed
+1739,A359,Whiskey,10.00,1,completed
+1740,A260,Wine,6.00,1,completed
+1741,A170,Fries,3.20,0,completed
+1742,A373,Soda,3.50,0,completed
+1743,A280,Wine,6.00,1,completed
+1744,A82,"Hot Dog",4.50,0,completed
+1745,A87,Burger,8.00,0,completed
+1746,A369,"Gin Tonic",11.00,1,completed
+1747,A16,"Gin Tonic",11.00,1,completed
+1748,A267,Beer,5.50,1,completed
+1749,A236,"Hot Dog",4.50,0,completed
+1750,A257,Fries,3.20,0,completed
+1751,A342,"Hot Dog",4.50,0,completed
+1752,A247,Tacos,4.00,0,completed
+1753,A155,"Gin Tonic",11.00,1,completed
+1754,A287,"Gin Tonic",11.00,1,completed
+1755,A404,Wrap,5.00,0,completed
+1756,A157,Wine,6.00,1,completed
+1757,A111,Wine,6.00,1,completed
+1758,A451,Tacos,4.00,0,completed
+1759,A369,Tacos,4.00,0,completed
+1760,A487,Beer,5.50,1,completed
+1761,A186,Burger,8.00,0,completed
+1762,A74,Water,3.00,0,completed
+1763,A500,Water,3.00,0,completed
+1764,A141,Burger,8.00,0,completed
+1765,A100,Fries,3.20,0,completed
+1766,A10,Whiskey,10.00,1,completed
+1767,A218,Fries,3.20,0,completed
+1768,A16,Soda,3.50,0,completed
+1769,A497,"Gin Tonic",11.00,1,completed
+1770,A53,Burger,8.00,0,completed
+1771,A222,Soda,3.50,0,completed
+1772,A162,Burger,8.00,0,completed
+1773,A256,Whiskey,10.00,1,completed
+1774,A247,Fries,3.20,0,completed
+1775,A85,Fries,3.20,0,completed
+1776,A155,Wine,6.00,1,completed
+1777,A451,Wine,6.00,1,completed
+1778,A260,Beer,5.50,1,completed
+1779,A236,Soda,3.50,0,completed
+1780,A268,Beer,5.50,1,completed
+1781,A382,Wings,3.60,0,completed
+1782,A157,Water,3.00,0,completed
+1783,A134,Fries,3.20,0,completed
+1784,A218,Soda,3.50,0,completed
+1785,A63,Water,3.00,0,completed
+1786,A247,Wrap,5.00,0,completed
+1787,A262,Soda,3.50,0,completed
+1788,A487,Wine,6.00,1,completed
+1789,A141,Wings,3.60,0,completed
+1790,A254,Burger,8.00,0,completed
+1791,A437,Whiskey,10.00,1,completed
+1792,A170,Beer,5.50,1,completed
+1793,A481,Whiskey,10.00,1,completed
+1794,A277,Burger,8.00,0,completed
+1795,A163,"Hot Dog",4.50,0,completed
+1796,A310,Burger,8.00,0,completed
+1797,A15,Wings,3.60,0,completed
+1798,A342,Fries,3.20,0,completed
+1799,A39,"Hot Dog",4.50,0,completed
+1800,A485,"Hot Dog",4.50,0,completed
+1801,A27,Fries,3.20,0,completed
+1802,A451,Wine,6.00,1,completed
+1803,A497,Soda,3.50,0,completed
+1804,A307,Wrap,5.00,0,completed
+1805,A444,Soda,3.50,0,completed
+1806,A236,Tacos,4.00,0,completed
+1807,A281,Whiskey,10.00,1,completed
+1808,A218,Whiskey,10.00,1,completed
+1809,A318,Wrap,5.00,0,completed
+1810,A268,Wings,3.60,0,completed
+1811,A382,Beer,5.50,1,completed
+1812,A271,Tacos,4.00,0,completed
+1813,A476,Soda,3.50,0,completed
+1814,A310,Soda,3.50,0,completed
+1815,A111,Burger,8.00,0,completed
+1816,A247,Fries,3.20,0,completed
+1817,A153,Whiskey,10.00,1,completed
+1818,A452,"Gin Tonic",11.00,1,completed
+1819,A15,Wine,6.00,1,completed
+1820,A376,Water,3.00,0,completed
+1821,A47,Beer,5.50,1,completed
+1822,A437,Burger,8.00,0,completed
+1823,A155,Burger,8.00,0,completed
+1824,A262,Soda,3.50,0,completed
+1825,A318,Wings,3.60,0,completed
+1826,A100,Soda,3.50,0,completed
+1827,A260,Tacos,4.00,0,completed
+1828,A451,Fries,3.20,0,completed
+1829,A63,Wings,3.60,0,completed
+1830,A381,Beer,5.50,1,completed
+1831,A204,Tacos,4.00,0,completed
+1832,A401,"Gin Tonic",11.00,1,completed
+1833,A307,Soda,3.50,0,completed
+1834,A467,Whiskey,10.00,1,completed
+1835,A236,Soda,3.50,0,completed
+1836,A256,"Gin Tonic",11.00,1,completed
+1837,A39,Soda,3.50,0,completed
+1838,A131,Wings,3.60,0,completed
+1839,A267,Wrap,5.00,0,completed
+1840,A281,Wine,6.00,1,completed
+1841,A487,Water,3.00,0,completed
+1842,A244,Burger,8.00,0,completed
+1843,A87,Whiskey,10.00,1,completed
+1844,A481,Water,3.00,0,completed
+1845,A310,Whiskey,10.00,1,completed
+1846,A157,Beer,5.50,1,completed
+1847,A170,Beer,5.50,1,completed
+1848,A47,Beer,5.50,1,completed
+1849,A342,Soda,3.50,0,completed
+1850,A155,"Hot Dog",4.50,0,completed
+1851,A467,Fries,3.20,0,completed
+1852,A45,Wine,6.00,1,completed
+1853,A262,"Hot Dog",4.50,0,completed
+1854,A74,"Hot Dog",4.50,0,completed
+1855,A4,Wings,3.60,0,completed
+1856,A369,Beer,5.50,1,completed
+1857,A310,Wrap,5.00,0,completed
+1858,A376,Wings,3.60,0,completed
+1859,A54,Wrap,5.00,0,completed
+1860,A10,Wings,3.60,0,completed
+1861,A236,Beer,5.50,1,completed
+1862,A451,Soda,3.50,0,completed
+1863,A318,Whiskey,10.00,1,completed
+1864,A45,Wings,3.60,0,completed
+1865,A218,Fries,3.20,0,completed
+1866,A281,Wrap,5.00,0,completed
+1867,A262,Water,3.00,0,completed
+1868,A487,Beer,5.50,1,completed
+1869,A485,"Hot Dog",4.50,0,completed
+1870,A264,Beer,5.50,1,completed
+1871,A369,Wings,3.60,0,completed
+1872,A484,Water,3.00,0,completed
+1873,A131,Whiskey,10.00,1,completed
+1874,A318,Wrap,5.00,0,completed
+1875,A415,Tacos,4.00,0,completed
+1876,A45,"Gin Tonic",11.00,1,completed
+1877,A497,Beer,5.50,1,completed
+1878,A487,Wings,3.60,0,completed
+1879,A281,Wine,6.00,1,completed
+1880,A247,Burger,8.00,0,completed
+1881,A204,Wings,3.60,0,completed
+1882,A244,Wrap,5.00,0,completed
+1883,A369,Water,3.00,0,completed
+1884,A307,"Hot Dog",4.50,0,completed
+1885,A54,Burger,8.00,0,completed
+1886,A318,Soda,3.50,0,completed
+1887,A27,Burger,8.00,0,completed
+1888,A490,Whiskey,10.00,1,completed
+1889,A379,Soda,3.50,0,completed
+1890,A481,Tacos,4.00,0,completed
+1891,A485,Tacos,4.00,0,completed
+1892,A110,Beer,5.50,1,completed
+1893,A39,Fries,3.20,0,completed
+1894,A218,Wine,6.00,1,completed
+1895,A281,Beer,5.50,1,completed
+1896,A307,Wings,3.60,0,completed
+1897,A487,Wrap,5.00,0,completed
+1898,A379,Fries,3.20,0,completed
+1899,A131,Wrap,5.00,0,completed
+1900,A244,Water,3.00,0,completed
+1901,A27,Wine,6.00,1,completed
+1902,A310,Wine,6.00,1,completed
+1903,A481,Wings,3.60,0,completed
+1904,A110,"Gin Tonic",11.00,1,completed
+1905,A267,Soda,3.50,0,completed
+1906,A10,Wine,6.00,1,completed
+1907,A100,"Gin Tonic",11.00,1,completed
+1908,A131,Water,3.00,0,completed
+1909,A15,Wings,3.60,0,completed
+1910,A27,Wine,6.00,1,completed
+1911,A111,"Gin Tonic",11.00,1,completed
+1912,A4,Whiskey,10.00,1,completed
+1913,A497,Fries,3.20,0,completed
+1914,A60,Wings,3.60,0,completed
+1915,A318,Burger,8.00,0,completed
+1916,A131,Whiskey,10.00,1,completed
+1917,A10,Tacos,4.00,0,completed
+1918,A256,Wings,3.60,0,completed
+1919,A481,Beer,5.50,1,completed
+1920,A4,Wings,3.60,0,completed
+1921,A15,"Gin Tonic",11.00,1,completed
+1922,A318,"Gin Tonic",11.00,1,completed
+1923,A497,Fries,3.20,0,completed
+1924,A100,Water,3.00,0,completed
+1925,A318,Wings,3.60,0,completed
+1926,A100,Wine,6.00,1,completed
+1927,A4,Whiskey,10.00,1,completed
+1928,A415,Wings,3.60,0,completed
+1929,A497,"Gin Tonic",11.00,1,completed
+1930,A487,"Gin Tonic",11.00,1,completed
+1931,A318,Beer,5.50,1,completed
+1932,A415,Wine,6.00,1,completed
+1933,A497,Wine,6.00,1,completed
+1934,A110,Wrap,5.00,0,completed
+1935,A497,Beer,5.50,1,completed
+1936,A497,Tacos,4.00,0,completed
+1937,A492,Wrap,5.00,0,completed
+1938,A4,Soda,3.50,0,completed
+1939,A490,Beer,5.50,1,completed
+1940,A492,Wings,3.60,0,completed
+1941,A490,Wrap,5.00,0,completed
+1942,A487,Wine,6.00,1,completed
+1943,A307,Wrap,5.00,0,completed
+1944,A487,Whiskey,10.00,1,completed
+1945,A492,Water,3.00,0,completed
+1946,A4,Tacos,4.00,0,completed
+1947,A307,"Gin Tonic",11.00,1,completed
+1948,A497,Beer,5.50,1,completed
+1949,A110,Tacos,4.00,0,completed
+1950,A307,Wings,3.60,0,completed
+1951,A497,Beer,5.50,1,completed
+1952,A490,Wine,6.00,1,completed
+1953,A307,Wrap,5.00,0,completed
+1954,A307,Water,3.00,0,completed
+1955,A487,Tacos,4.00,0,completed
