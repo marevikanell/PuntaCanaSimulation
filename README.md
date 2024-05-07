@@ -11,7 +11,7 @@ OS Project 2024, simulating the Paradise Festival in Punta Cana, DR.
 
 # Introduction
 
-
+Welcome to the Punta Cana Festival Simulation project! This repository contains a Python-based simulation that models the dynamic environment of a large-scale festival. The simulation incorporates multithreading and object-oriented programming to realistically depict various festival activities such as attendee interactions, service operations, and artist performances.
 
 # Repository Content Description
 
