@@ -15,10 +15,11 @@ OS Project 2024, simulating the Paradise Festival in Punta Cana, DR.
 
 # Repository Content Description
 
-To be able to execute this project, read the following descriptions on the content of the repository. Download the following files and the libraries required by the installation section. 
-
-
-blabla
+To be able to execute this project, read the following descriptions on the content of the repository. Download the following files and the libraries required by the installation section.
+- "punta_cana_festival.py" : python file to run the simulation
+- "attendees_seed_0.csv": sql table of attendees used to perfom the analysis for the report
+- "orders_seed_0_csv": sql table of orders used to perfom the analysis for the report
+- "Punta_Cana_Festival_Simulation_Report.pdf": Academic report for the description of the project
 
 # Installation 
 
@@ -26,18 +27,23 @@ To be able to run our program, make sure you have the following things installed
 
 Python programming language 
 
-Libraries - In order to run our program, we make use of the following X libraries: 
+Libraries - In order to run our program, we make use of the following 7 libraries: 
 
-**To download the library type the following command**
-- pip install X
+- threading
+- time
+- concurrent.futures
+- random
+- tracebook
+- datetime
+- mysql.connector
 
-Now that we have the required libraries set up, open the file named X and run the program.
+Now that we have the required libraries set up, open the "punta_cana_festival.py" file and run the program.
 
 We have developed this project on a **macOS Ventura**
 
 # Usage
 
-After a user enters our platform, they will be welcomed and asked what steps they want to take: 
+Only one file "punta_cana_festival.py" is required to run the simulation successfully.
 
 # Credits 
 
