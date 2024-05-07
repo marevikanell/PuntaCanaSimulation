@@ -20,6 +20,7 @@ To be able to execute this project, read the following descriptions on the conte
 - "attendees_seed_0.csv": sql table of attendees used to perfom the analysis for the report
 - "orders_seed_0_csv": sql table of orders used to perfom the analysis for the report
 - "Punta_Cana_Festival_Simulation_Report.pdf": Academic report for the description of the project
+- "example_output.txt": An example of the kernel output, with all the printing statements that visualize the simulation of the festival
 
 # Installation 
 
