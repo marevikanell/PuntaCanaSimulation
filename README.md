@@ -21,6 +21,7 @@ To be able to execute this project, read the following descriptions on the conte
 - "orders_seed_0_csv": sql table of orders used to perfom the analysis for the report
 - "Punta_Cana_Festival_Simulation_Report.pdf": Academic report for the description of the project
 - "example_output.txt": An example of the kernel output, with all the printing statements that visualize the simulation of the festival
+- "results_analysis.ipynb": Jubyter Notebook of the analysis conducted using "orders_seed_0.csv" & "attendees_seed_0.csv" 
 
 # Installation 
 
@@ -39,6 +40,7 @@ Libraries - In order to run our program, we make use of the following 7 librarie
 - mysql.connector
 
 Now that we have the required libraries set up, open the "punta_cana_festival.py" file and run the program.
+- the only point that requires attention is your sql connection, ensure that the correct host, root, and password (if required) are set to establish the connection for your server.
 
 We have developed this project on a **macOS Ventura**
 
