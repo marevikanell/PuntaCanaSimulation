@@ -1,8 +1,21 @@
--- get the tables after you run your simulation:
+# SQL queries to extract the info from the tables
 
-USE festiva_db;
 
-SELECT * FROM attendees; 
+```sql
+
+USE festival_db;
+
+```
+
+```sql
+
+SELECT * FROM attendees;
+
+```
+
+```sql
+
 SELECT * FROM orders;
 
+```
 
