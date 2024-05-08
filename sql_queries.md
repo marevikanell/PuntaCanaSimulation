@@ -4,3 +4,5 @@ USE festiva_db;
 
 SELECT * FROM attendees; 
 SELECT * FROM orders;
+
+
