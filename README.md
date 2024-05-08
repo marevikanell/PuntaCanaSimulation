@@ -6,8 +6,7 @@ OS Project 2024, simulating the Paradise Festival in Punta Cana, DR.
 1. Introduction 
 2. Repository Content Description
 3. Installation & Usage 
-4. Further Improvements 
-5. Credits 
+4. Credits 
 
 # Introduction
 
